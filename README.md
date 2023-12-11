@@ -6,7 +6,7 @@ Requisitos: PHP ^8.1, composer, MySQL e Laravel ^10
 
 Faça uma cópia do arquivo .env.example: Execute o seguinte comando para criar uma cópia do arquivo .env.example e renomeá-lo para .env:
 
-    cp .env.example .env e aplique as configurações abaixo
+cp .env.example .env e aplique as configurações abaixo
 
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
@@ -37,3 +37,8 @@ Inicie o servidor local para executar a aplicação Laravel:
     php artisan serve --port:8000
 
 Acesse o projecto apartir de: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+
+    Use as seguintes credenciais para entrar no sistema
+
+    email: admin@crud.com
+    password: admin
