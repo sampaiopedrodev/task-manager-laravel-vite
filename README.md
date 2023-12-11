@@ -8,12 +8,12 @@ Faça uma cópia do arquivo .env.example: Execute o seguinte comando para criar 
 
     cp .env.example .env e aplique as configurações abaixo
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=crud_laravel
-DB_USERNAME=root
-DB_PASSWORD=
+    DB_CONNECTION=mysql
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_DATABASE=crud_laravel
+    DB_USERNAME=root
+    DB_PASSWORD=
 
 Certifique-se de que essas informações sejam correspondentes às suas configurações locais.
 
