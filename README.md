@@ -34,6 +34,6 @@ Gere uma chave de aplicação única usando o comando:
 
 Inicie o servidor local para executar a aplicação Laravel:
 
-        php artisan serve --port:8000
+    php artisan serve --port:8000
 
-    Acesse o projecto apartir de: http://127.0.0.1:8000/
+Acesse o projecto apartir de: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
